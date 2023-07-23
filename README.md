@@ -2,7 +2,7 @@
 
 **_The database for this project is no longer in use, function may be limited._**
 
-**_This is the client section of the app. Check out the server section <a href="https://github.com/thomknoe/prepmaps.server" target="_blank">here</a>_**
+**_This is the client section of the app. Check out the server section <a href="https://github.com/thomknoe/prepmaps.server" target="_blank">here.</a>_**
 
 ## HIV healthcare in Miami
 
@@ -14,7 +14,7 @@ You can click on blue pill markers to see what kind of services each provider of
 
 ## Installation
 
-- Open command line or terminal and clone both this repo and <a href="https://github.com/thomknoe/prepmaps.server" target="_blank">the backend repo</a> into your desired directory.
+- Open command line or terminal and clone both this repo and <a href="https://github.com/thomknoe/prepmaps.server" target="_blank">the server-side repo</a> into your desired directory.
 
 ```lang-zsh
 $ git clone https://github.com/thomknoe/prepmaps.client
