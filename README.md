@@ -2,7 +2,7 @@
 
 **_The database for this project is no longer in use, function may be limited._**
 
-**_This is the client section of the app. Check out the server section <a href="https://github.com/thomknoe/prepmaps.Node.js" target="_blank">here</a>_**
+**_This is the client section of the app. Check out the server section <a href="https://github.com/thomknoe/prepmaps.server" target="_blank">here</a>_**
 
 ## HIV healthcare in Miami
 
